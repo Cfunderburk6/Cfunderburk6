@@ -11,4 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cfunderburk6/NSGs-and-Inspecting-Traffic-Between-Azure-VMs/blob/main/README.md)
 <h2>🤳Connect with me:</h2> 
 [instagram](https://www.instagram.com/caleb__neely/
-[linkedin]: https://linkedin.com/in/Josh
+
